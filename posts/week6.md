@@ -11,7 +11,7 @@ tags:
 Write your content here.
 
 
-#Week 6
+#Week 6 : Ideation Process
 
-##Ideation process
+##How Might We Design and Develop Bla Bla platform
 
