@@ -61,3 +61,25 @@ ul.tags-list {
 ul.post-list{
     list-style: none;
 }
+
+
+.blog-image {
+  margin: 2rem auto;
+  max-width: 700px;
+}
+
+.blog-image img {
+  width: 100%;
+  max-width: 700px;
+  height: auto;
+  display: block;
+  border-radius: 12px;
+  border: 1px solid #333;
+}
+
+.image-caption {
+  font-size: 0.9rem;
+  color: #888;
+  margin-top: 0.5rem;
+  line-height: 1.5;
+}
